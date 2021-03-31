@@ -1,2 +1,2 @@
 # responsive-web-design
-Free Code Camp Course
+https://www.freecodecamp.org/learn/responsive-web-design/
