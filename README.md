@@ -9,3 +9,5 @@ Course outline:
 <i>Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid."</i>
 
 For more information, see: https://www.freecodecamp.org/learn/responsive-web-design/
+
+[certificate.pdf](https://github.com/elyzx/responsive-web-design/files/6283880/certificate.pdf)
