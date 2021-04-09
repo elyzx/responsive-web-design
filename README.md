@@ -10,4 +10,4 @@ Course outline:
 
 For more information, see: https://www.freecodecamp.org/learn/responsive-web-design/
 
-[certificate.pdf](https://github.com/elyzx/responsive-web-design/files/6283880/certificate.pdf)
+Download certificate of completion here: [certificate.pdf](https://github.com/elyzx/responsive-web-design/files/6283880/certificate.pdf)
